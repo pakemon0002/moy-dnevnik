@@ -1,0 +1,8 @@
+{
+  "appId": "com.moydnevnik.privateapp",
+  "appName": "Мой Дневник",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

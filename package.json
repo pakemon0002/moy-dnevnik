@@ -1,0 +1,17 @@
+{
+  "name": "personal-hq-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private personal diary and goals app",
+  "scripts": {
+    "build": "echo Static web app ready"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3",
+    "@capacitor/assets": "^3.0.5"
+  }
+}
